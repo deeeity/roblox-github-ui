@@ -20,3 +20,9 @@ This is a test
 ## 💻 ▪ Credits
 
 Test!
+
+## ✨ ▪ Changelog
+
+| Version | Changelog             |
+| ------- | --------------------- |
+| 1.0     | This is a placeholder |
