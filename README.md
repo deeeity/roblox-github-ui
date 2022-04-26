@@ -5,12 +5,9 @@ This is the official repository for the ROBLOX GitHub UI Library *(referring to 
 You can find the navigation below.
 
 * [👶 ▪ Getting started](#-----getting-started)
-
 * [🛠 ▪ Documentation](#-----documentation)
-
 * [💻 ▪ Credits](#-----credits)
 
-  
 
 ## 👶 ▪ Getting started
 
