@@ -7,7 +7,7 @@ You can find the navigation below.
 * [👶 ▪ Getting started](#-----getting-started)
 * [🛠 ▪ Documentation](#-----documentation)
 * [💻 ▪ Credits](#-----credits)
-
+* [✨ ▪ Changelog](#-----changelog)
 
 ## 👶 ▪ Getting started
 
