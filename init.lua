@@ -1,7 +1,9 @@
 -- Ready the environment for the library
 local function init()
+    print("Test 1")
     getgenv().GHUI = getgenv().GHUI or {}
-    if #GHUI == 0 then
+    if GHUI.Exists == nil then
+        print("Test 2")
         GHUI.Exists = true
         GHUI.Version = 1.0
         GHUI.Debug = false
@@ -16,8 +18,10 @@ local function init()
             "Base" = GHUI.Include("components/base"),
             "Core" = GHUI.Include("components/core")
         }
+        print("Test 3")
     end
 
+    print("Test 4")
     return GHUI
 end
 
