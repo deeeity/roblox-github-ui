@@ -1,7 +1,7 @@
 -- Ready the environment for the library
 return function(user, repo, branch)
     print("Test 1")
-    getgenv().GHUI = getgenv().GHUI or {}
+    getgenv()["GHUI"] = getgenv()["GHUI"] or {}
     if not rawget(GHUI, "Exists") then
         print("Test 2")
         GHUI.Exists = true
