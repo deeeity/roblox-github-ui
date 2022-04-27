@@ -1,5 +1,5 @@
 -- Ready the environment for the library
-function get(user, repo, branch)
+return function(user, repo, branch)
     print("Test 1")
     getgenv().GHUI = getgenv().GHUI or {}
     if not rawget(GHUI, "Exists") then
@@ -21,5 +21,3 @@ function get(user, repo, branch)
         print("Test 3")
     end
 end
-
-return get
